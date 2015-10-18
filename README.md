@@ -450,9 +450,9 @@ Table: Output value
 [epahome]: <http://www.epa.gov/ttn/chief/eiinformation.html>
 [epadata]: <https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip>
 [ghrepo]: <https://github.com/Sil68/ExploratoryDataAnalysisCourseProject2.git>
-[plot1]: <https://github.com/Sil68/ExploratoryDataAnalysisCourseProject2/blob/master/plot1.png>
-[plot2]: <https://github.com/Sil68/ExploratoryDataAnalysisCourseProject2/blob/master/plot2.png>
-[plot3]: <https://github.com/Sil68/ExploratoryDataAnalysisCourseProject2/blob/master/plot3.png>
-[plot4]: <https://github.com/Sil68/ExploratoryDataAnalysisCourseProject2/blob/master/plot4.png>
-[plot5]: <https://github.com/Sil68/ExploratoryDataAnalysisCourseProject2/blob/master/plot5.png>
-[plot6]: <https://github.com/Sil68/ExploratoryDataAnalysisCourseProject2/blob/master/plot6.png>
+[plot1]: <https://github.com/Sil68/ExploratoryDataAnalysisCourseProject2/blob/master/publish/plot1.png>
+[plot2]: <https://github.com/Sil68/ExploratoryDataAnalysisCourseProject2/blob/master/publish/plot2.png>
+[plot3]: <https://github.com/Sil68/ExploratoryDataAnalysisCourseProject2/blob/master/publish/plot3.png>
+[plot4]: <https://github.com/Sil68/ExploratoryDataAnalysisCourseProject2/blob/master/publish/plot4.png>
+[plot5]: <https://github.com/Sil68/ExploratoryDataAnalysisCourseProject2/blob/master/publish/plot5.png>
+[plot6]: <https://github.com/Sil68/ExploratoryDataAnalysisCourseProject2/blob/master/publish/plot6.png>
